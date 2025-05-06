@@ -85,9 +85,12 @@ Define metadata in manifest.json:
 }
 Testing
 Copy your integration to custom_components/ in a HomeAssistant instance and restart.
+<img width="946" alt="homeassisatnt_ss" src="https://github.com/user-attachments/assets/8dbdd295-04de-4b0d-a896-0cf5d609b949" />
+
 Best Practices
 Use async/await for compatibility with HomeAssistant’s event loop.
 Installation
 Clone this repository.
 Copy the my_integration/ folder to custom_components/ in your HomeAssistant config directory.
 Restart HomeAssistant to load the integration.
+
