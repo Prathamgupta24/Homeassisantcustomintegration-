@@ -1,0 +1,9 @@
+{
+  "domain": "lytviya",
+  "name": "Lytviya Light",
+  "version": "1.0.0",
+  "documentation": "https://example.com",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@yourusername"]
+}
